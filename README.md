@@ -1,5 +1,5 @@
 # Deploy
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/[user name]/[repo name]/[branch name]/[app path])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/[user name]/irfanim/ml_zoomcamp/main/app1.py)
 # Problem description
 ## Heart Failure Prediction - 12 clinical features for predicting death events.
 
