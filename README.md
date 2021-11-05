@@ -23,34 +23,34 @@ unhealthy diet and obesity, physical inactivity and harmful use of alcohol using
     
     
 + ### age
-Age of patient, between 40 years old until 95 years old 
+> Age of patient, between 40 years old until 95 years old 
 + ### anaemia
 Decrease of red blood cells or hemoglobin (boolean) - 0 = No, 1 = Yes
 + ### creatinine_phosphokinase
-Level of the CPK enzyme in the blood (mcg/L)
+> Level of the CPK enzyme in the blood (mcg/L)
 + ### diabetes
-If the patient has diabetes (boolean) - 0 = No, 1 = Yes
+> If the patient has diabetes (boolean) - 0 = No, 1 = Yes
 + ### ejection_fraction
-Percentage of blood leaving the heart at each contraction (percentage)
+> Percentage of blood leaving the heart at each contraction (percentage)
 + ### high_blood_pressure
-If the patient has hypertension (boolean) - 0 = No, 1 = Yes
+> If the patient has hypertension (boolean) - 0 = No, 1 = Yes
 + ### platelets
-Platelets in the blood (kiloplatelets/mL)
+> Platelets in the blood (kiloplatelets/mL)
 + ### serum_creatinine
-Level of serum creatinine in the blood (mg/dL)
+> Level of serum creatinine in the blood (mg/dL)
 + ### serum_sodium
-Level of serum sodium in the blood (mEq/L)
+> Level of serum sodium in the blood (mEq/L)
 + ### sex
-Woman or man (binary) - Female = 0, Male = 1
+> Woman or man (binary) - Female = 0, Male = 1
 + ### smoking
 0 = No, 1 = Yes
 + ### time
-not enough information, between 4 until 285
+> not enough information, between 4 until 285
 
 
 ## TARGET
 + ### DEATH_EVENT
-0 = No, 1 = Yes
+> 0 = No, 1 = Yes
 
 
 
