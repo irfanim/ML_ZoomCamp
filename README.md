@@ -43,7 +43,7 @@ Decrease of red blood cells or hemoglobin (boolean) - 0 = No, 1 = Yes
 + ### sex
 > Woman or man (binary) - Female = 0, Male = 1
 + ### smoking
-0 = No, 1 = Yes
+> 0 = No, 1 = Yes
 + ### time
 > not enough information, between 4 until 285
 
