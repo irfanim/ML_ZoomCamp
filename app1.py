@@ -17,11 +17,10 @@ def predict_rf(anaemia, diabetes,
     return prediction
 
 def main():
-    @irfanim
     st.title('Heart Failure Prediction')
     html_temp = '''
     <div style='background-color:tomato; padding:10px'>
-    <h2 style='color:white; text-align:center'>Heart Failure Prediction ML App</h2>
+    <h2 style='color:white; text-align:center'>Heart Failure Prediction ML App @irfanim</h2>
     </div>
     <p>
     '''
