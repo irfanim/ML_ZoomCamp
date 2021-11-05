@@ -1,5 +1,11 @@
 # Deploy
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/irfanim/ml_zoomcamp/main/app1.py)
++ Doing `notebook_midproject.ipynb` and create pickle file `rf.pkl` on Kaggle
++ Creating `app1.py` on `VSC` with `streamlit as st`
++ Creating `requirements.txt` with `pipreqs` from `Anaconda Prompt`
++ Deploy app from existing repo on `Github` with `Streamlit Cloud`  
+
+### Click! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/irfanim/ml_zoomcamp/main/app1.py)
+
 # Problem description
 ## Heart Failure Prediction - 12 clinical features for predicting death events.
 
@@ -16,34 +22,34 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 ## Features
     
     
-### age
++ ### age
 Age of patient, between 40 years old until 95 years old 
-### anaemia
++ ### anaemia
 Decrease of red blood cells or hemoglobin (boolean) - 0 = No, 1 = Yes
-### creatinine_phosphokinase
++ ### creatinine_phosphokinase
 Level of the CPK enzyme in the blood (mcg/L)
-### diabetes
++ ### diabetes
 If the patient has diabetes (boolean) - 0 = No, 1 = Yes
-### ejection_fraction
++ ### ejection_fraction
 Percentage of blood leaving the heart at each contraction (percentage)
-### high_blood_pressure
++ ### high_blood_pressure
 If the patient has hypertension (boolean) - 0 = No, 1 = Yes
-### platelets
++ ### platelets
 Platelets in the blood (kiloplatelets/mL)
-### serum_creatinine
++ ### serum_creatinine
 Level of serum creatinine in the blood (mg/dL)
-### serum_sodium
++ ### serum_sodium
 Level of serum sodium in the blood (mEq/L)
-### sex
++ ### sex
 Woman or man (binary) - Female = 0, Male = 1
-### smoking
++ ### smoking
 0 = No, 1 = Yes
-### time
++ ### time
 not enough information, between 4 until 285
 
 
 ## TARGET
-### DEATH_EVENT
++ ### DEATH_EVENT
 0 = No, 1 = Yes
 
 
