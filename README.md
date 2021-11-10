@@ -25,7 +25,7 @@ unhealthy diet and obesity, physical inactivity and harmful use of alcohol using
 + ### age
 > Age of patient, between 40 years old until 95 years old 
 + ### anaemia
-Decrease of red blood cells or hemoglobin (boolean) - 0 = No, 1 = Yes
+> Decrease of red blood cells or hemoglobin (boolean) - 0 = No, 1 = Yes
 + ### creatinine_phosphokinase
 > Level of the CPK enzyme in the blood (mcg/L)
 + ### diabetes
